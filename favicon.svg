@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="none">
-  <!-- Brand primary #0F2576 (AppColors.primary); white stroke for tab contrast -->
-  <path
-    d="M50 5C50 5 15 45 15 72C15 91.33 30.67 100 50 100C69.33 100 85 91.33 85 72C85 45 50 5 50 5Z"
-    fill="#0F2576"
-    stroke="#ffffff"
-    stroke-width="5"
-    stroke-linejoin="round"
-  />
+  <!-- Match marketing: navy drop on white rounded tile (tab favicon) -->
+  <rect x="4" y="4" width="92" height="92" rx="22" fill="#ffffff"/>
+  <g transform="translate(50 52) scale(0.78) translate(-50 -52)">
+    <path
+      d="M50 5C50 5 15 45 15 72C15 91.33 30.67 100 50 100C69.33 100 85 91.33 85 72C85 45 50 5 50 5Z"
+      fill="#0F2576"
+    />
+  </g>
 </svg>
